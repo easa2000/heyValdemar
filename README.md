@@ -5,8 +5,6 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<a href="https://www.twitter.com/heyValdemar" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/heyValdemar?logo=twitterx&style=for-the-badge&color=9046FF&labelColor=9046FF&label=TWITTER+FOLOWERS"></a>
-&nbsp;
 <a href="https://www.github.com/heyValdemar" rel="noreferrer"><img src="https://img.shields.io/github/followers/heyValdemar?logo=githubx&style=for-the-badge&color=9046FF&labelColor=9046FF&label=GITHUB+FOLOWERS"></a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1" rel="noreferrer"><img src="https://img.shields.io/youtube/channel/subscribers/UCf85kQ0u1sYTTTyKVpxrlyQ?logo=youtubex&style=for-the-badge&color=9046FF&labelColor=9046FF&label=YOUTUBE+FOLOWERS"></a>
